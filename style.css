@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: rgb(253, 253, 253);
+}
+.wrapper {
+  height: 500px;
+}
+
+.spacing {
+  margin-left: 400px;
+}
+.color {
+  color: blueviolet;
+}
+.card {
+  width: 330px;
+  height: 300px;
+}
+.card-title {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(158, 65, 245);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* color: white; */
+}
+.card-text {
+  text-align: center;
+}
+.btn-color{
+        border: 1px solid blueviolet;
+        /* background-color: white; */
+        color: blueviolet;
+}
+#color{
+  color: rgb(126,227,161);
+}
+.spacing-text{
+  margin-left: 300px;
+}
+.box{
+  margin-top: 190px;
+  margin-bottom: 150px;
+}
+.top-border{
+  border-top: 2px solid white;
+}
+.background{
+  background-color: blueviolet;
+  color: white;
+  padding: 70px;
+  padding-left: 180px;
+}
+.text{
+  font-size: small;
+}
+.link{
+  text-decoration: none;
+}
+.bg-color{
+  background-color: blueviolet;
+  color: white;
+}
+.color-icon{
+  background-color:rgb(6, 222, 132);
+  width: 25px;
+  height: 25px;
+}
+.icons{
+  border: 1px solid rgb(6, 222, 132);
+  width: 25px;
+  height: 25px;
+  color: rgb(6, 222, 132);
+}
+.border-dashed{
+  border: 1px dashed gray;
+  padding: 20px;
+}
+.circle{
+  width: 100px;
+  height: 100px;
+}
+.add-icon{
+padding: 3px;
+color: rgb(6, 222, 132);
+  background-color:rgba(6, 222, 132,0.2) ;
+
+ }
+ .img{
+  width: 380px;
+  height: 350px;
+}
+.icon-img{
+  width: 40px;
+  height: 40px;
+}
